@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi! Hola! 👋
+
+👩‍💻  About Me :
+
+I am a front end (sometimes full stack 😄 ) developer from Spain.
+
+🔭 I’m currently working with :
+
+`javascript` `typescript` `reactjs` `nodejs`
+
+🌱 I’m currently learning :
+
+`python`
 
 <!--
 **mateosantosdev/mateosantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
