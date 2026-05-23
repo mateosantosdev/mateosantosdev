@@ -19,6 +19,6 @@ I am a front end (sometimes full stack 😄 ) developer from Spain.
 
 🗣️ Public repositories : 
 
-- [Chancli Changelog Generator](https://github.com/mateosantosdev/chancli-changelog-generator) - Create a CHANGELOG.md that compares git tags. It supports conventional commits by default.
-- [Chancli Users](https://github.com/mateosantosdev/chancli-users) - ExpressJS users api boilerplate built with Typescript+TypeORM+PostgreSQL
-- [Snippets for JavaScript and TypeScript](https://github.com/mateosantosdev/snippets-js-ts) - A curated list of JS and TS snippets from around the web.
+- [Chancli Wallet](https://github.com/mateosantosdev/chancliwallet) - A personal investment portfolio tracker CLI tool. Manage multiple investment accounts and track your portfolio history in CSV format.
+- [Chancli Font Resizer](https://github.com/mateosantosdev/chancli-font-size-resizer) - Obsidian plugin: Increase or decrease the note editor font size from the status bar. Headers scale proportionally; body text scales independently.
+- [Chancli Bookmarklets]([https://github.com/mateosantosdev/snippets-js-ts](https://github.com/mateosantosdev/chancli-bookmarklets)) - A collection of browser bookmarklets for reading and saving web content.
